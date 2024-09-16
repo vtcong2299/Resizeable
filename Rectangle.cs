@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace BaiTapResizeable
 {
-    public class Rectangle:Shape
+    public class Rectangle:Shape, Resize
     {
         public double width=1.0;
         public double height=1.0;

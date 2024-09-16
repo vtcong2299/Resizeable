@@ -2,7 +2,7 @@ using System;
 
 namespace BaiTapResizeable
 {
-    public class Square : Rectangle
+    public class Square : Rectangle, Resize
     {
         public Square(){}
         public Square(double side) : base(side, side){}

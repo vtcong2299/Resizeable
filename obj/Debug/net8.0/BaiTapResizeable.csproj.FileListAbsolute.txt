@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\bin\Debug\net8.0\BaiTapResizeable.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\bin\Debug\net8.0\BaiTapResizeable.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\bin\Debug\net8.0\BaiTapResizeable.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\bin\Debug\net8.0\BaiTapResizeable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\bin\Debug\net8.0\BaiTapResizeable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.sourcelink.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\refint\BaiTapResizeable.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\BaiTapResizeable.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\BaiTapResizeable\obj\Debug\net8.0\ref\BaiTapResizeable.dll

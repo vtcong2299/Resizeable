@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiTapResizeable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6713a196bfb3b2b5a9bdd28e5ca5244f66e3c24e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiTapResizeable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiTapResizeable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
